@@ -1,0 +1,23 @@
+{
+  "name": "electron-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron . --disable-gpu"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bustinstuff/electron-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bustinstuff/electron-app/issues"
+  },
+  "homepage": "https://github.com/bustinstuff/electron-app#readme",
+  "devDependencies": {
+    "electron": "^6.0.12"
+  }
+}
